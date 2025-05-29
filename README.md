@@ -25,7 +25,6 @@ This work is part of my engineering efforts at UCSB’s Washburn Lab, focusing o
 
 /designs → CAD files and models
 /iterations → Past versions and design experiments
-/prototypes → Printable files for physical testing
 /docs → Design notes, test results, and specifications
 
 yaml
