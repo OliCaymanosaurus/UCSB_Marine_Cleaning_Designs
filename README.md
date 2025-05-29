@@ -10,7 +10,7 @@ My primary focus while interning at this lab was designing underwater hardware s
 ## 🛠 What’s Inside
 
 - **3D CAD Models:** STL files for underwater cleaning tools.
-- **Design Iterations:** Snap-fit mechanisms, U-channel holders, and other secure holding systems.
+- **Design Iterations:** Iterations and prototypes for final designs
 - **Prototyping Notes:** Documentation on design decisions, materials, and underwater testing.
 
 ---
@@ -37,12 +37,6 @@ Edit
 ## 🤝 Contributors
 
 - Oliver Werkhoven
-
----
-
-## 📜 License
-
-Include your chosen license here (MIT, GPL, or custom).
 
 ---
 
