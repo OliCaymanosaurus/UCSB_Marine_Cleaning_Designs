@@ -1,7 +1,7 @@
 # UCSB_Marine_Cleaning_Designs
 Work with Washburn Lab
 
-This repository contains the design files, CAD models, prototypes, and documentation for marine instrumentcleaning tools I developed in collaboration with the **Washburn Lab** at the University of California, Santa Barbara (UCSB).
+This repository contains the design files, CAD models, prototypes, and documentation for marine instrument cleaning tools I developed in collaboration with the **Washburn Lab** at the University of California, Santa Barbara (UCSB).
 
 My primary focus while interning at this lab was designing underwater hardware systems — including syringe holders, wire brush covers, and other cleaning mechanisms — that can be deployed and tested in marine environments to reduce dive times for maintaince and hasssle. All designs are optimized for 3D printing and underwater durability.
 
